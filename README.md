@@ -7,20 +7,21 @@
 - 🎓 &nbsp; Formada em **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br">Faculdade Estácio</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas Sênior** na <a href="https://www.poncetech.com.br">Ponce Tech</a> outsourcing <a href="https://www.unimedfortaleza.com.br">Unimed Fortaleza</a> 
 - 🌱 &nbsp; Aprendendo mais sobre **Spring boot**.
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
   ![PL/SQL](https://img.shields.io/badge/-PL/SQL-F80000?style=flat&logo=oracle)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 **Utilidades**
 
@@ -29,11 +30,11 @@
 
 **Version Control**
 
-  ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white) 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Apache Subversion](https://img.shields.io/badge/SubVersion-%23809CC9.svg?style=flat&logo=subversion&logoColor=white) 
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=flat&logo=gitlab&logoColor=white)
+  ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=flat&logo=bitbucket&logoColor=white)
 
 **DevOps**
 
@@ -42,7 +43,7 @@
   
 **Design**
 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6)
 
 **Ferramentas de Desenvolvimento**
@@ -50,19 +51,19 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
   
 
 **Servers**
 
-  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
+  ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black)
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
 
 <br/>
 
-### Experiência de trabalho
+<h3> Experiência de trabalho </h3>
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Ponce Tech" src="https://static.wixstatic.com/media/b740eb_5167c1d4426f47b38d23db2cfc193b2b~mv2.png"/>](https://www.poncetech.com.br/)
@@ -104,45 +105,35 @@ Projetos em destaque: [módulo comercial]()
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdacosta&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdacosta&hide=html&layout=compact&theme=default&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=magdacosta&show_icons=true&theme=dracula&line_height=27" alt="**Magda** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=magdacosta&show_icons=true&layout=compact&theme=default&line_height=27" alt="**Magda** github stats"/>
 </a>
 
-[website]: https://magdacostta.com/
-[twitter]: https://twitter.com/MagdaCostta
-[facebook]: https://www.facebook.com/MagdaCostta/
-[instagram]: https://www.instagram.com/MagdaCostta/
-[linkedin]: https://www.linkedin.com/in/MagdaCostta/
 <br>
 
-#### Rede Sociais!
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [facebook][facebook] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-
-
+## **Onde me encontrar:**
 
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=magda.costta@gmail.com" /></a>
+  <a href="https://wa.me/5585997112232" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
+  
+  <a href="mailto:magda.costta@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin][linkedin]" /></a>
+  <a href="https://www.linkedin.com/in/MagdaCostta/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=[whatsapp](https://wa.me/5585997112232)"/></a>
+  <a href="https://www.twitter.com/MagdaCostta/" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=[facebook]"/></a>
+  <a href="https://www.facebook.com/MagdaCostta/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[instagram]"/></a>
+  <a href="https://www.instagram.com/MagdaCostta/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white"/></a>
 </p>  
 
 
