@@ -20,10 +20,10 @@
 import Developer from 'MagdaCosta';
 class AboutMe extends Developer {
   name = 'Magda Costa';
-  job = 'Analista e Desenvolvedora PL/SQL e Java';
+  job = 'PL/SQL and Java Analyst and Developer';
   company = 'Unimed Fortaleza';
-  address = 'Fortaleza, CE, Brasil';
-  pronouns = 'ela / dela';
+  address = 'Fortaleza, CE, Brazil';
+  pronouns = 'she / her';
 }
 ```
 
