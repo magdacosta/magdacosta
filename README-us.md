@@ -155,34 +155,77 @@ Featured projects: [commercional module](), [financial module]()
 
 
 
+
 <!--- CURSOS --->
 <details>
-  <summary> 👩‍🏫 Courses </summary>
+  <summary> 👩‍🏫 Cursos </summary>
 <br>
+  
+  
+<!---- Oracle SQL Tuning - Turma ORTUN27 ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: 20% 10%;" 
+     alt="Oramaster" src="https://github.com/magdacosta/magdacosta/blob/main/img/oramaster_logo.jpg"
+/>
+[**Oracle SQL Tuning - Class ORTUN27**](https://github.com/magdacosta/magdacosta/blob/main/pdf/cert_ortun27_ana_magda.pdf)\
+Oramaster\
+Conclusion: May 2022 · 24h
 
-<img 
-     align="left" 
-     style="width: 50px; height: 50px; object-fit: cover; object-position: -20% 0%;" 
-     alt="International House" 
-     src="https://github.com/magdacosta/magdacosta/blob/main/img/ihv_logo.jpg"
+  
+<!---- Testes Automáticos + Curso COMPLETO de Teste de Software ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: 20% 10%;" 
+     alt="Udemy" src="https://github.com/magdacosta/magdacosta/blob/main/img/udemy_logo.jpg"
+/>
+[**Automated Testing + COMPLETE Software Testing Course**](https://www.udemy.com/certificate/UC-d3a9d668-c814-46dd-9d94-519340d39587)\
+Udemy\
+Conclusion: Nov 2021 · 5h
+  
+ 
+<!---- CRM Analyst ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: 20% 10%;" 
+     alt="Flides Education" src="https://github.com/magdacosta/magdacosta/blob/main/img/flides_education_logo.png"
+/>
+**Salesforce - CRM Analyst**\
+Flides Education\
+Conclusion: May 2021 · 20h
+  
+  
+<!---- UX Design - UX: o que é experiência de usuário ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: -20% 0%;" 
+     alt="Alura"  src="https://github.com/magdacosta/magdacosta/blob/main/img/alura.jpg"
+/>
+[**UX: What is user experience**](https://cursos.alura.com.br/certificate/6c2909f6-934e-420e-8287-91a609e94eac)\
+Alura\
+Conclusion: Nov 2019 · 5h
+  
+  
+<!---- UX Design - Adobe XD: design visual de um site mobile ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: -20% 0%;" 
+     alt="Alura"  src="https://github.com/magdacosta/magdacosta/blob/main/img/alura.jpg" 
+/>
+[**Adobe XD: Visual design of a mobile website**](https://cursos.alura.com.br/certificate/3e19261f-dded-478d-8a93-6ec5dd3b4d82)\
+Alura\
+Conclusion: Jul 2019 · 10h
+  
+
+<!---- DevOps - Git e Github: controle e compartilhe seu código ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: -20% 0%;" 
+     alt="Alura"  src="https://github.com/magdacosta/magdacosta/blob/main/img/alura.jpg" 
+/>
+[**Git e Github: Control and share your code**](https://cursos.alura.com.br/certificate/c1e57161-71f8-4faf-a929-ce82e5a6e974)\
+Alura\
+Conclusion: Jul 2019 · 6h
+
+  
+<!---- English as a Second Language ---->
+<img align="left" style="width: 50px; height: 50px; object-fit: cover; object-position: -20% 0%;" 
+     alt="International House"  src="https://github.com/magdacosta/magdacosta/blob/main/img/ihv_logo.jpg"
 />
 **English as a Second Language**\
 International House Vancouver\
-Set 2014 - Out 2014 · 100 horas
-
-<img 
-     align="left" 
-     style="width: 50px; height: 50px; object-fit: cover; object-position: 20% 10%;" 
-     alt="Flides Education" 
-     src="https://github.com/magdacosta/magdacosta/blob/main/img/flides_education_logo.png"
-/>
-**CRM Analyst - Salesforce**\
-Flides Education Certified\
-Abr 2021 - Mai 2021 · 20 horas
+Conclusion: Oct 2014 · 100h
   
 <br>
 </details>
-
 
 <!--- FORMAÇÃO ACADÊMICA --->
 <details>
