@@ -250,15 +250,14 @@ Jan 2006 - Dec 2010
 
 <!--- ESTATÍSTICAS NO GITHUB --->
 <details>
-  <summary> 📊 Stats on Github </summary>
+  <summary> 📊 Estatísticas no Github </summary>
 <br>
-
+  
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdacosta&hide=html&layout=compact&theme=default&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagdaCosta&theme=light&hide_langs_below=1" />
 </a>
-
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=magdacosta&show_icons=true&layout=compact&theme=default&line_height=27" alt="**Magda** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=MagdaCosta&show_icons=true&theme=light&line_height=27" alt="Magda's github stats"/>
 </a>
 
 <br>
