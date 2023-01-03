@@ -250,7 +250,7 @@ Jan 2006 - Dec 2010
 
 <!--- ESTATÍSTICAS NO GITHUB --->
 <details>
-  <summary> 📊 Estatísticas no Github </summary>
+  <summary> 📊 Github stats </summary>
 <br>
   
 <a href="https://github.com/Gurupreet">
